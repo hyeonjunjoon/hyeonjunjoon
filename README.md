@@ -2,7 +2,7 @@
 
 # 안녕하세요, 김현준입니다 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Pretendard&size=18&pause=1000&color=555555&center=true&vCenter=true&width=460&lines=%EC%8B%A0%EB%A2%B0%ED%95%A0+%EC%88%98+%EC%9E%88%EB%8A%94+%EB%B0%B1%EC%97%94%EB%93%9C%EB%A5%BC+%EB%A7%8C%EB%93%9C%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4." alt="Typing SVG" />
+신뢰할 수 있는 백엔드를 만드는 개발자입니다.
 
 </div>
 
@@ -49,7 +49,6 @@
 <div align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </div>
@@ -63,14 +62,3 @@ XRPL Credential 기반 그룹 멤버십 인증과 Multi-signature 트랜잭션 �
 
 ### [DeltaX — PAXG vs BTC 변동성 예측 베팅 플랫폼](https://github.com/2025-openSrc6/DeltaX)
 Binance API 연동 실시간 가격 데이터 수집 및 라운드 정산 로직 구현 (Next.js, Drizzle ORM, Cloudflare D1)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hyeonjunjoon&show_icons=true&theme=default&hide_border=true" alt="hyeonjunjoon's GitHub stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjunjoon&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="38%" />
-
-</div>
